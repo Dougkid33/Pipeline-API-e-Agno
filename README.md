@@ -22,6 +22,25 @@ Este projeto é um exemplo prático de **Pipeline ETL (Extração, Transformaç�
 - Visualização dinâmica com Streamlit
 - Registro de histórico no banco de dados
 
+
+## 📊 KPIs e Visualizações
+
+O dashboard do Streamlit permite explorar os seguintes KPIs e visualizações:
+
+* [Ex: Preço histórico do Bitcoin]
+* [Ex: Variação diária]
+* [Ex: Volume de negociação]
+* [Ex: Média móvel de preços]
+* [Ex: Insights gerados pelo Agno AI, se aplicável]
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias e novas funcionalidades.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT.
+
 ## 📦 Instalação
 
 ```bash
